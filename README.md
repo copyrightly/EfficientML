@@ -16,3 +16,13 @@ Differentiable NAS methods
 
 State of the art (used in the lab's notebook)
 - [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
+
+MCUNets
+- [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/abs/2007.10319)
+- [MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning](https://arxiv.org/abs/2110.15352)
+
+COCO datasets
+- [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312)
+
+Inverted MobileNet blocks
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
