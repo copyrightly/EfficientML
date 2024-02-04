@@ -26,3 +26,6 @@ COCO datasets
 
 Inverted MobileNet blocks
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
+
+Efficiency constraints in real world
+- [Visual Wake Words with TensorFlow Lite Micro](https://blog.tensorflow.org/2019/10/visual-wake-words-with-tensorflow-lite_30.html) TensorFlow Blog
