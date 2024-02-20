@@ -29,3 +29,9 @@ Inverted MobileNet blocks
 
 Efficiency constraints in real world
 - [Visual Wake Words with TensorFlow Lite Micro](https://blog.tensorflow.org/2019/10/visual-wake-words-with-tensorflow-lite_30.html) TensorFlow Blog
+
+### TinyEngine and Parallel Processing:
+- [parallel computing tutorial](https://github.com/mit-han-lab/parallel-computing-tutorial)
+- [What Is Multithreading In OS? Understanding The Details](https://unstop.com/blog/multithreading-in-os)
+- [Multithreading Models in Operating System](https://www.javatpoint.com/multithreading-models-in-operating-system)
+- [Stanford CS 149: PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23)
