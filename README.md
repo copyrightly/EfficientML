@@ -35,3 +35,6 @@ Efficiency constraints in real world
 - [What Is Multithreading In OS? Understanding The Details](https://unstop.com/blog/multithreading-in-os)
 - [Multithreading Models in Operating System](https://www.javatpoint.com/multithreading-models-in-operating-system)
 - [Stanford CS 149: PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23)
+
+### Vision Transformer:
+- An image is worth 16x16 words
