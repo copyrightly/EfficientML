@@ -39,3 +39,4 @@ Efficiency constraints in real world
 ### Vision Transformer:
 - An image is worth 16x16 words
 - Segment Anything
+- EfficientViT: multi-scale linear attention
