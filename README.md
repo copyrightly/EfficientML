@@ -40,3 +40,5 @@ Efficiency constraints in real world
 - An image is worth 16x16 words
 - Segment Anything
 - EfficientViT: multi-scale linear attention
+- Flamingo: a Visual Language Model for Few-Shot Learning [Alayrac et al., 2022]
+- PaLM-E: An Embodied Multimodal Language Model [Driess et al., 2022]
