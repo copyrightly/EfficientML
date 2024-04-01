@@ -42,3 +42,7 @@ Efficiency constraints in real world
 - EfficientViT: multi-scale linear attention
 - Flamingo: a Visual Language Model for Few-Shot Learning [Alayrac et al., 2022]
 - PaLM-E: An Embodied Multimodal Language Model [Driess et al., 2022]
+
+### GAN, Video, and Point Cloud
+- Generative Adversarial Networks [Goodfellow et al., 2014]
+- [Overview of GAN Structure](https://developers.google.com/machine-learning/gan/gan_structure)
