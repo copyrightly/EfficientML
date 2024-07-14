@@ -55,4 +55,4 @@ Efficiency constraints in real world
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
 - [CMU 16-726](https://learning-image-synthesis.github.io/sp23/static_files/lectures/Lecture9_generative_models_(partII).pdf)
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
-- 
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
