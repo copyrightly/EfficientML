@@ -48,3 +48,9 @@ Efficiency constraints in real world
 ### GAN, Video, and Point Cloud
 - Generative Adversarial Networks [Goodfellow et al., 2014]
 - [Overview of GAN Structure](https://developers.google.com/machine-learning/gan/gan_structure)
+
+### Diffusion Model
+- [Tutorial](https://cvpr2022-tutorial-diffusion-models.github.io/)
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
+- [CMU 16-726](https://learning-image-synthesis.github.io/sp23/static_files/lectures/Lecture9_generative_models_(partII).pdf)
