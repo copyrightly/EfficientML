@@ -56,3 +56,6 @@ Efficiency constraints in real world
 - [CMU 16-726](https://learning-image-synthesis.github.io/sp23/static_files/lectures/Lecture9_generative_models_(partII).pdf)
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) [Zhang et al., ICCV 2023]
+- [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) [Ho & Salimans, 2021]
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) [Rombach et al., CVPR 2022]
