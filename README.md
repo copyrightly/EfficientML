@@ -54,3 +54,5 @@ Efficiency constraints in real world
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239), [Ho et al., NeuriPS 2020]
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
 - [CMU 16-726](https://learning-image-synthesis.github.io/sp23/static_files/lectures/Lecture9_generative_models_(partII).pdf)
+- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
+- 
