@@ -59,3 +59,7 @@ Efficiency constraints in real world
 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) [Zhang et al., ICCV 2023]
 - [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) [Ho & Salimans, 2021]
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) [Rombach et al., CVPR 2022]
+- [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) [Song et al., ICLR 2021]
+- On Distillation of Guided Diffusion Models [Meng et al., CVPR 2023]
+- Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models [Li et al., NeurIPS 2022]
+- Q-Diffusion: Quantizing Diffusion Models [Li et al., ICCV 2023]
