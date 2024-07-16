@@ -67,3 +67,4 @@ Efficiency constraints in real world
 ### Distributed Training
 - Scaling Distributed Machine Learning with the Parameter Server. Mu Li et al. 2014
 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+- Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
