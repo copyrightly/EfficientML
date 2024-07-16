@@ -63,3 +63,7 @@ Efficiency constraints in real world
 - On Distillation of Guided Diffusion Models [Meng et al., CVPR 2023]
 - Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models [Li et al., NeurIPS 2022]
 - Q-Diffusion: Quantizing Diffusion Models [Li et al., ICCV 2023]
+
+### Distributed Training
+- Scaling Distributed Machine Learning with the Parameter Server. Mu Li et al. 2014
+- ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
