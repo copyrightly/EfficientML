@@ -71,3 +71,13 @@ Efficiency constraints in real world
 - Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM
 - DeepSpeed: Extreme-scale model training for everyone
 - Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning [Zheng et al. 2022]
+- Sparse communication for distributed gradient descent [Alham Fikri et al 2017]
+- Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [Lin et al 2017]
+- Optimizing Network Performance for Distributed DNN Training on GPU Clusters: ImageNet/AlexNet Training in 1.5 Minutes [Sun et al 2019]
+- PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization [Vogels et al 2019]
+- signSGD with Majority Vote is Communication Efficient and Fault Tolerant [Bernstein et al 2019]
+- ATOMO: Communication-efficient Learning via Atomic Sparsification [Wang et al 2018]
+- 1-bit stochastic gradient descent and its application to data-parallel distributed training of speech DNNs [Frank 2014]
+- Scalable distributed DNN training using commodity GPU cloud computing [Nikko 2015]
+- TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning
+- Delayed Gradient Averaging: Tolerate the Communication Latency in Federated Learning. [Zhu 2021] 
