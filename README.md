@@ -40,7 +40,8 @@ Efficiency constraints in real world
 
 ### Vision Transformer:
 - An image is worth 16x16 words
-- Segment Anything Model
+- Segment Anything Model (SAM)
+  - [Project page](https://segment-anything.com/)
 - Segment Anything Model 2 (SAM 2)
   - [Project page](https://ai.meta.com/sam2/) | [Blog](https://ai.meta.com/blog/segment-anything-2/) | [Paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) | [Code](https://github.com/facebookresearch/segment-anything-2)
 - EfficientViT: multi-scale linear attention
